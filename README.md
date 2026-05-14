@@ -21,7 +21,10 @@
 ## Links
 
 GitHub:
-
-
+https://github.com/thudumrakesh/Static-Portfolio-on-AWS-S3.git
+s3:
+http://minicraft-portfolio.s3-website.us-east-2.amazonaws.com/
 Hosted Site:
+https://d39ynz4ea8rz6u.cloudfront.net/
+
 
