@@ -21,7 +21,7 @@
 ## Links
 
 GitHub:
-https://github.com/yourusername/aws-static-portfolio
+
 
 Hosted Site:
-https://xxxxx.cloudfront.net
+
